@@ -13,3 +13,15 @@ mushahiroyuki/ndp2
 ## サポートページ
 
 [Node.js デザインパターン 第2版 サポートページ — マーリンアームズ株式会社](https://www.marlin-arms.com/support/nodejs-design-patterns/)
+
+## Setup
+
+```
+npm install
+```
+
+## Testing
+
+```
+npm run test
+```
